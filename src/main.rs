@@ -1,3 +1,5 @@
+use LinkedList::LinkedList;
+
 fn main() {
-    println!("Hello, world!");
+    let sampleList: LinkedList<u128> = LinkedList::<u128>::new();
 }
